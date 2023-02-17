@@ -4,6 +4,8 @@ Workday Scheduler
 Todo List App
 This is a simple todo list app that allows you to create, manage, and save your tasks. It also has features like a "Clear" button to clear all completed tasks and a "Lock" button to save your data.
 
+![image](https://user-images.githubusercontent.com/113802839/219804023-1a5715bb-9acb-437f-987f-741afc6a3597.png)
+
 Features
 Add new tasks to your list.
 View all tasks in a list format.
