@@ -7,13 +7,12 @@ Todo List App:
 ![image](https://user-images.githubusercontent.com/113802839/219804023-1a5715bb-9acb-437f-987f-741afc6a3597.png)
 
 Features:
-
 Add new tasks to your list.
 View all tasks in a list format.
-Clear all completed tasks.
 Lock and unlock your data for secure saving.
-Technologies
+Clear all completed tasks.
 
+Technologies
 This app is built using the following technologies: 
 HTML
 CSS
@@ -40,10 +39,6 @@ To clear all completed tasks, click on the "Clear" button at the bottom of the p
 Saving your data:
 To save your tasks, click on the "Lock" button. This will save your tasks in the browser's local storage. To unlock and retrieve your tasks, click on the "Unlock" button.
 
-Contributions:
-Contributions to this project are welcome. If you find any issues or have any suggestions for improvement, please create an issue or submit a pull request.
-
-License:
 This app is licensed under the MIT License.
 
 
