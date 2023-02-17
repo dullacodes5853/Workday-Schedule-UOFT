@@ -22,29 +22,28 @@ Jquery
 Day.js
 
 
-Getting Started
-To get started with this app, you can either download the source code or clone the repository using the following command:
+Getting Started:
+To get started with this app, you can either download the source code.
 
-Adding a new task
+Adding a new task:
 To add a new task, simply type the task description in the input field and press the lock button to save your data.
 
-
-Deleting a task
+Deleting a task:
 To delete a task, remove it from the input and press the lock key.
 
-Viewing all tasks
+Viewing all tasks:
 To view all tasks, simply scroll down the page to see all the tasks in a list format.
 
-Clearing completed tasks
+Clearing completed tasks:
 To clear all completed tasks, click on the "Clear" button at the bottom of the page.
 
-Saving your data
+Saving your data:
 To save your tasks, click on the "Lock" button. This will save your tasks in the browser's local storage. To unlock and retrieve your tasks, click on the "Unlock" button.
 
-Contributions
+Contributions:
 Contributions to this project are welcome. If you find any issues or have any suggestions for improvement, please create an issue or submit a pull request.
 
-License
+License:
 This app is licensed under the MIT License.
 
 
